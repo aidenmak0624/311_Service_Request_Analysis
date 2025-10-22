@@ -1,0 +1,758 @@
+Request Type,Count of anomalous case duration,Total Requests
+Water Information Request,686,34163
+Misc. Concern/Inquiry,655,34148
+Turn On Water - Repairs Complete,613,36385
+Discoloured Water,571,28745
+Turn Off Water - Repairs Emergency,501,28864
+Remove Object from Right of Way,469,52366
+Snow Removal- Snow Plow Damage,454,21993
+Request for Bulky Pick Up - 10 Items,415,145011
+Missed Garbage Collection Deficiency,390,150954
+Pothole May 16 Priority 3 Reg,344,27160
+Tree - Dangerous or Split - Hazardous After,311,15434
+Request for Bulky Pick Up Manual Collection,306,26488
+Carts Damaged By Collection Crews,305,126811
+"TR Employees,Schedules,Routes,SchoolService Report",299,66049
+Missed Recycling Collection Deficiency,288,121064
+Tree - Dutch Elm Disease Tree Inspection Req,285,9390
+Turn Off Water - Repairs NonEmergency,282,34575
+Miscellaneous Concerns,278,58654
+Tree - Dangerous or Split - Hazardous,271,18127
+Frozen Catch Basin Priority 3 Reg,271,18452
+Snow Removal Street Priority 3 Reg,267,18019
+Check for Water Leak - Trickling,267,24626
+Housing Complaint - Yard and Accessory Buildings,259,120822
+Water Clean Up After Repairs,247,11061
+Snow Removal Back Lanes,225,18559
+Pothole May 16 Priority 2 Reg,209,13559
+Paved Road Repairs NonHazard Priority 3,202,12196
+Check for Water Leak - Gushing,199,19113
+Tree - Sick or Dead,192,14120
+Pothole Nov 1 Priority 1 Reg,179,9620
+Pothole P3_vof,172,7496
+TR Bus Stop Area/Bus Stop,163,20620
+Parking Escalated/Admin Inquiries,158,24102
+Forestry Brush Pick Up - Pruning or Storm Damage,157,15912
+Sidewalk Repairs Hazardous Regular Hours,148,7636
+Missed Garbage Collection Same Day Miss,148,31045
+TR Employees Complaints/Commendations,142,20130
+Street Sign Install Remove,139,11823
+Pothole May 16 Priority 1 Reg,138,8245
+No Water,135,33141
+Poor Pressure,132,5585
+Lane Concern Gravel Lanes,131,9336
+Sewer Back Up - Raw Sewage,131,14486
+Traffic Signal Malfunction,129,35060
+Dog/Cat/Other Pet Running at Large,128,13055
+Catch Basin Plugged - Front Street,126,13776
+Lane Concern Paved Back Lanes,123,9171
+Gravel Road Maintenance,121,6871
+Pothole Apr 1 Priority 3 Reg,117,9531
+Forestry Pruning - Risk of Injury,117,12641
+Signs Fix Replace Missing,113,24463
+Debris In Street Priority 3 Reg,107,6112
+Credit Balance Inquiry,106,9133
+Abandoned Pick Up Request - Regular Bulky,104,30146
+Animal Services Licenses Updates/Requests,103,6704
+Barricades/Signs Abandoned,102,7111
+Neighborhood Liveability Complaint,98,6607
+Pothole Nov 1 Priority 3 Reg,98,7368
+Found Licensed Dog,98,11789
+Water Meter Leaking - Emergency,94,6466
+Sewer Back Up - Clean Water,94,10140
+Pothole Nov 1 Priority 2 Reg,91,5121
+Housing Complaint - Interior of Building,91,25038
+DED Removal Esc Inquiry,87,4112
+Sidewalk Repairs NonHazard Priority 3,86,4662
+Snow Removal Front Approach Reg Hours,86,7366
+Manhole Cover Ajar or Off,84,6160
+PW_StreetsMiscPolicyConcerns,82,4318
+Frozen Catch Basin Priority 3 After,82,4843
+Turn On Water - Payment Made,82,22927
+Litter Container Concern,80,5691
+Water Meter Leaking - Non Emergency,80,11731
+Park Maint - Litter in the Park,79,6317
+Operator Standards - Recycling,79,9753
+Roll Out Cart Repair/Replacement - Garbage,77,8798
+Water Staff Commendation/Complaint,76,4525
+Solid Waste General Concern,74,7533
+Curb Repair Priority 3,73,6404
+Commendation/Thank You,72,4950
+Pothole Apr 1 Priority 2 Reg,71,6345
+Sewer Information Request,70,5101
+Missed Yard Waste Collection Deficiency,69,50987
+Request for Bulk Pick Up- Autobin,68,16260
+Debris In Street Priority 3 After,67,5926
+Pothole P2_vof,67,6143
+Forestry Tree - Fallen - Hazardous After,66,5505
+Roll Out Cart Repair/Replacement - Recycling,66,6494
+Forestry Request for Information SR,66,7626
+Autobin Concerns- Full or Overflowing,64,7263
+Operator Standards - Garbage,63,14165
+Assessed Value Complaint - Property,62,10083
+Hazardous Road Conditions Priority 1 After,60,3491
+Catch Basin Damaged - Front Street,60,8028
+Quality of Service,60,22464
+Service Box - Damaged,59,5855
+Service Box - Adjust Height,57,5076
+Dog or Cat Running at Large,57,29393
+Debris In Street Priority 1 Reg,56,3839
+Snow Removal Front Approach After Hours,56,7359
+Program Reg-Program Information Inquiry,56,7696
+Hydrant Leaking,55,4364
+TR Information Mail Out Request,55,9979
+Boulevard Mowing Request,53,5002
+Request for New Service - Carts for New Builds,53,16822
+Paved Road Repairs NonHazard Priority 1,52,3140
+Water Excavation - Dangerous,52,3279
+Graffiti- City Facilities,50,5218
+Parks Complaints/Commendations,50,5603
+Snow Removal Street Priority 2 Reg,49,3749
+Damage or Theft by Collection Crews,49,5540
+Missed Bulky Waste Collection Deficiency,49,9644
+Spring Street Sweeping Report Priority 3,48,2602
+Hazardous Road Conditions Priority 3 After,48,3980
+"Breached Damage, Theft, Operator Standards",48,9400
+Housing Complaint - Miscellaneous Concerns,48,13771
+Snow Removal Sidewalks Priority 3 Reg,47,3716
+Claim Status Request,47,5371
+Housing Complaint - Exterior of Building,47,29785
+Frozen Catch Basin Priority 2 Reg,46,4282
+Pothole Apr 1 Priority 1 Reg,46,4959
+Graffiti - Private Property,46,5095
+Breached Missed Collection Garbage Deficiency,46,7828
+Inspections - Work Without Permit,45,3312
+Sewer Odour Inside Building,45,4148
+Payment Discrepancy Explanation,45,25372
+Debris In Street Priority 2 Reg,44,2784
+Request For Monthly Permit Esc Information,44,3739
+Snow Removal High Piles Pr 1,43,3044
+Forestry Tree - Fallen - Hazardous,43,3468
+House Vibrations Concern,43,5349
+Discoloured Water Inquiry,43,24832
+Paved Road Repairs NonHazard Priority 2,42,3788
+Housing Complaint - Long Grass/Weeds,42,16748
+Snow Removal High Piles Pr 2,41,3140
+"Water Meter Damaged, Broken or Not Working",40,5027
+Paved Road Repairs Hazardous Reg,39,3035
+Snow Removal Sidewalks Priority 1 After,39,3207
+Park Maint - Park Amenities,38,4485
+Water Tank Rental or Concern,37,2796
+Manhole Damaged - Front Street,37,6218
+Pothole P1 Hazardous After,36,1871
+Aquatics-Refund Exception Request,36,3195
+Forestry Complaints/Commendations,36,3859
+Escalated Adoption Info,36,5750
+Snow Removal Street Priority 1 Reg,35,3355
+Assessment Notice Request,35,3505
+Bulky/ODS/Surplus/Large App Pick Up Charge Inq,34,2367
+Catch Basin Plugged - Back Lane,34,3136
+Damage or Theft by Collection Crews - Recycling,34,3526
+Recreation-Problems with Account,33,3253
+Forestry Tree - Fallen - NonHazardous,33,3861
+Damage or Theft by Collection Crews - Garbage,33,6697
+Debris In Street Priority 2 After,32,2487
+Hazardous Road Conditions Priority 3 Reg,32,2692
+Staff Complaint / Commendation,32,2784
+Snow Removal Sidewalks Priority 2 Reg,32,2812
+Snow Removal Sidewalks Priority 3 After,32,3339
+Parks Request for Information SR,32,3665
+Tree Planting,32,5648
+Hydrant Hit or Damaged,30,2443
+Snow Removal High Piles Pr 3,30,2501
+Missed Yard Waste Collection Same Day Miss,30,3227
+Zoning Query,29,2459
+Boulevard Excessive Sand Complaint,29,3145
+Sanding Request Priority 2 Reg,29,3261
+Stop Sign Down After Hours,29,8124
+Other Taxes and Services Information Request,29,17016
+Snow Removal Sidewalks Priority 2 After,28,2419
+Debris In Street Priority 1 After,28,2782
+Snow Removal Sidewalks Priority 1 Reg,28,2982
+Graffiti- Business Property,28,4292
+Request for New Service Roll Out Carts - Recycling,28,4561
+Program Reg - Group Pool Bookings - 9 or More,28,5257
+Parking Ticket Statement Esc Inq,28,6691
+Request for New Service Roll Out Carts - Garbage,28,7056
+Missed Recycling Collection Same Day Miss,28,15939
+Sewer & DrainageTechnical Advisor,27,2655
+License Update Request_vof,27,4046
+"TR Schedules,Routes,SchoolService Report",27,12335
+Park Maint - Mowing Park,26,4842
+Miscellaneous Concerns - Abandoned,26,11865
+Boulevard Repair Report,25,3238
+Pet License Information Update/Change,25,10097
+Carts Damaged By Collection Crews GARBAGE 240L,25,20038
+Walk Up Service Application Request,24,3042
+Aquatics-Group Pool Reservations-9 or More,24,5356
+Mailing Address Change,24,21486
+Sanding Request Priority 1 Reg,23,2229
+New Construction Tax Estimate,23,2487
+Inspections - Unsafe Bldg/Property Complaint,23,2803
+Pothole P1_vof,23,3349
+Forestry Pruning - Obstructive Branches,22,2267
+Found Unlicensed Dog,22,3396
+Carts Damaged By Third Party,22,4297
+TR Peggo Technical Error,22,6184
+Request for Surplus Waste Pick Up,22,7581
+Dog Barking Complaint,22,22731
+TR Public Opinion,21,2023
+Hazardous Road Conditions Priority 2 After,21,2133
+Park Maint - Trails/Pathways,21,2575
+Sewer Odour Outside,20,2912
+Tax Notice - Property,20,5182
+Breached Missed Collection Recycling Deficiency,20,5600
+Lost Dog,20,14421
+Hazardous Road Conditions Priority 1 Reg,19,1962
+Aquatics-Program Information Inquiry,19,2173
+Forestry Stump Removal,19,2859
+Watermain Cleaning Inquiries and Concerns,19,2900
+Preview Program Inquiries,19,11233
+Parking Infraction Report,19,93612
+Hose Lines,18,1636
+Forestry Pruning - Traffic Control Signs,18,1667
+Sanding Request Priority 3 Reg,18,2849
+Program Reg - Facility or Pool Party Rental-Under9,18,3788
+Catch Basin Frozen - Front Street,18,4527
+Snow Removal- Bus Stops,17,1537
+Water Meter Noisy,17,2159
+Zoning Permit Query,17,2204
+Curb Repair Priority 2,17,2411
+Transit Lost Property Report,17,9856
+Manhole Cover Missing,16,1917
+Program Reg-Program Complaint,16,2843
+Bus Stop Area/Bus Stop Maintenance Request,16,3154
+TIPP Confirmation/Inquiry,16,23108
+Service Box - Locate,15,1381
+Valve Box - Damaged,15,1826
+Ditch Cleaning,15,1948
+Photo Enforcement Information,15,5317
+Lot Drainage or Illegal Discharge Notice Inquiry,14,1510
+Snow Removal Fire Hydrants Pr 3,14,1779
+Sanding Request Priority 3 After,14,2219
+I Have Found My Dog Update,14,2396
+Program Reg-Registration Exception Request,14,3106
+Abandoned/Derelict Vehicle Report,14,14002
+Valve Box - Adjust Height,13,1322
+Park Maint - Lighting,13,1531
+Landfill Concerns,13,1869
+Roll Out Cart Delivery - Damaged Cart,13,2161
+Schedules & Routes Concern,13,2898
+TR Customer Information Systems Complaint,13,3013
+Carts Damaged By Collection Crews RECYCLING 240L,13,16075
+Spring Street Sweeping Report Priority 2,12,1292
+Stop Sign Down Regular Hours,12,5363
+Transit Employees Concerns/Commendations,12,5681
+Request for Ozone Depleting Substance Collection,12,7305
+EPTC Self Declaration Form,12,10592
+Lifting of Restrictions,12,20396
+TR Lost Property Request,12,105293
+Valve Box - Cover Missing,11,1544
+Sanding Request Priority 1 After,11,1760
+Sump Pump/Down Spout Discharge - Non-Hazardous,11,4062
+Request for Dead Animal Pickup,11,44410
+Missed Snow Removal Accessibility Clearing,10,1375
+Req Info on Residential Driveways/Approaches,10,1644
+Snow Removal Street P3_vof,10,1683
+Recreation Services Staff Complaint,10,1845
+Pothole Repair Request in Spring P2,10,2014
+Broken Meter Report,10,19765
+Recreation-Program Information Inquiry,9,1537
+Trap Rental Availability,9,1619
+Roll Out Cart Delivery - Missed,9,1792
+Housing Complaint - Vacant or Derelict Building,9,2575
+Recreation-Recreation Facility Rental,9,2604
+Supplementary/Subdivision Tax Information,9,2688
+Lot Grading/Drainage Concern,9,3198
+Request for New Service- Garbage,9,4540
+Requesting a Copy or Figures from the Property Tax,9,7332
+Damage or Theft by Collection Crews - Yard Waste,8,1092
+City Facility Maintenance,8,1367
+"Tree Damaged Vehicle, Snow Clearing, Vandalism",8,1480
+Roll Out Cart Found,8,1625
+"Misc Tree Concerns- Grates, Pits, Stakes",8,1759
+Snow Removal Back Lane_vof,8,1759
+Frozen Catch Basin Report P3,8,1766
+Traffic Signal Underground Clearance Request,8,1805
+Sanding Request Priority 2 After,8,1806
+Traffic Calming Petition Responses,8,1880
+Election Misc Inquiries,8,2010
+MBEA Challenge or Review Ticket Esc Inq,8,2172
+Income & Expense Questionnaire Inquiry,8,2458
+Animal Services Incident/Decision Request,8,2638
+Request Garbage & Recycling Carts for New Builds,8,3561
+Hazardous Road Conditions Priority 2 Reg,7,1438
+Manhole Damaged - Back Lane,7,1592
+Water Quality Odour  - Non Emergency,7,1895
+Debris From Homeless,7,2030
+Aquatics-Group Pool bookings - 9 or More,7,2216
+TR Peggo Misc. Inquiry or Report,7,3973
+Tax Installment Payment Plan-TIPP Confirmation/Inq,7,4031
+Bridges Overpass Underpass Report,6,946
+Sewer Cleaning Non Emergency,6,947
+Park Maint - Weeds Mowing,6,992
+Catch Basin Damaged - Back Lane,6,1251
+Board of Revision Services,6,1651
+Screening Request,6,1961
+Existing SR Additional Information/Inquiry - Eng,6,1971
+Breached Missed Collection Bulky Deficiency,6,2153
+Program Reg-Refund Exception Request,6,2324
+Request for New Service- Recycling,6,2621
+Mosquito Complaint,6,2849
+Inspection Request - Property,6,2924
+Program Reg- Problems with Family Account,6,3915
+Breached Missed Collection Yard Waste Deficiency,6,3986
+Assessed Value Complaint,6,4913
+Private Property Parking Infraction,6,5556
+TR Non-Operator Concern,6,8729
+Request for a Garbage/Recycling Calendar,6,9742
+Property Damage Claim,6,10769
+Case Incident or Operational Decision Info Request,6,24295
+Debris In Street Hazardous Priority 1 After,5,928
+Frozen Culvert Priority 3,5,1319
+Staff Complaint,5,1447
+Frozen Catch Basin Priority 1 Reg,5,1456
+Vicious Dog,5,1548
+Park Maint - Playground Equip NonHazardous,5,1573
+Sump Pump/Down Spout Discharge - Hazardous,5,2402
+TR Bus Operator Complaint/Commendation,5,2596
+TR Peggo Refund or Cancellation Inquiry,5,2861
+Fire Code Complaint,5,2988
+Residential Toilet Replacement Program,5,3029
+Request for Residential Permit Esc Information,5,3195
+Roll Out Cart Conversion Comments,5,3372
+Pick Up Stray Dog,5,9856
+Parking Infraction Public Report_vof,5,11346
+Sewer Staff Commendation/Complaint,4,1075
+Rec Services Program Information Inquiry,4,1171
+Aquatics-Aquatic General Inquiries,4,1350
+Catch Basin Cover Ajar or Off,4,1355
+Park Maint - Fences,4,1454
+Skunk,4,1520
+Christmas Tree Donation,4,1654
+Sidewalk Repairs NonHazard Priority 1,4,1761
+Information Not Found in Garbage Map,4,1802
+TR Peggo Technical Error Report_vof,4,2031
+Sidewalk Repairs NonHazard Priority 2,4,2343
+Applying for Education & Property Tax Credit,4,5422
+Campaign Signage Complaint,3,873
+Frozen Catch Basin Priority 2 After,3,951
+Lost Property Request,3,1055
+Sale/Lease Inquiries,3,1121
+Assessed Value Complaint - Business,3,1132
+Assessed Value Request/Inquiry,3,1365
+Program Reg-Casual Ice Rental,3,1393
+Recreation-Registration Exception Request,3,1476
+Charges Added to the Tax Bill,3,1931
+Speak with an Inspector Request,3,2213
+Frozen Catch Basin P3_vof,3,2514
+Sump Pump/Down Spout Discharge - Neighbours,3,2719
+Loading Zone Request,3,2896
+Assessment & Tax Mailing Address Change Request,3,3546
+City Clerks Misc Inq,3,3615
+TR Work Bus Inquiry,3,4336
+Request for Large Appliance Pick Up - 10 Items,3,6468
+Alarm Permit Inquiries,3,12415
+Additional Inquiry for an Abandoned Item,2,849
+Oversized Vehicles Parking Request,2,872
+Snow Fencing Request,2,920
+Traffic Signal Malfunction Response ETA,2,1028
+Misc. Capital Projects Inq,2,1047
+Water Quality Information Request or Inquiry,2,1116
+Peggo Loading Card Error,2,1119
+Bodily Injury Claim,2,1172
+My Properties Secure Login Issues,2,1197
+Standing Water Inspection Request,2,1417
+Sewer Water Clearance,2,1471
+Operator Standards - Yard Waste,2,1504
+Cart Tagged by Contractor Concern,2,1634
+Request for New Service- Roll Out Carts,2,1635
+Parking Ticket Payment Req SR,2,1638
+Private Parking Infraction Report_vof,2,1766
+Buffer Zone Application Submission,2,1836
+Health Complaint- Food,2,1844
+Accessibility Snow Clearing Application,2,1891
+Motor Vehicle Damage,2,2601
+Request for Maintenance- Garbage,2,2947
+Operational Complaint,2,3206
+Tree Pest Caterpillar Complaint,2,3595
+Questions about Payments made to Assessment & Tax,2,3643
+Traffic Sign History Request,1,757
+4R Depot Concerns,1,780
+Request for Bulk Pick Up - Adding Additional Items,1,788
+Frozen Pipes/Water Delivery Request,1,807
+Surface Lot/Parkade Complaints,1,839
+Land Development - Subdivision Tree Inquiry,1,852
+Bus Operator Complaint/Commendation,1,888
+Recycling Depots Concern Deficiency,1,893
+Street Litter Container Concern,1,965
+Zoning By-Law Complaint - Home Based Business,1,1004
+Broken Parking Meter Report,1,1012
+Inspection Request,1,1023
+Hydrant Marker Required,1,1040
+Sump Pump Discharge - Non-Hazardous,1,1057
+Recreation-Refund Exception Request,1,1079
+Graffiti- Hate Message,1,1082
+Recreation Facility Rental,1,1101
+Missed Surplus Waste Collection Deficiency,1,1131
+Graffiti Removal Request - Private Property,1,1170
+TR Peggo Loading Card Error_vof,1,1175
+Storm Retention Basin Vegetation Concerns,1,1178
+Parking Ticket Challenge,1,1207
+Snow Removal Request Back Lane,1,1209
+Residential Parking Permit Escalated Inquiry,1,1213
+Wading Pool / Spray Pad Inquiries,1,1252
+Rec Services Problems with Account,1,1263
+Missed Garbage Excess Due To Previous Miss,1,1266
+Park Maint - Signs,1,1286
+Curb Repair Priority 1,1,1367
+Buffer Zone Application Submission_vof,1,1376
+School Roadway Congestion Complaint,1,1393
+TR Peggo Card Misc. Concern/Bad Listed,1,1606
+Recreation-Fee Subsidy Status Request,1,1739
+Sump Pump/Backwater Valve Subsidy Program Inquiry,1,1800
+Forestry Pruning - General Non Hazardous,1,2086
+Program Reg-Fee Waiver Status Request,1,2147
+Request For Printed Garbage Calendar,1,2220
+TR Peggo Monetary Balance Discrepancy Inq,1,2235
+Inspections - After Hours Electrical Reconnect,1,2439
+Tax Calculation - Property,1,2775
+Req New Traffic Signals/Lights,1,2909
+Peggo Technical Error Report,1,3218
+Mail out Payment Receipt,1,4114
+Property in Tax Sale,1,4772
+TR Peggo Loading Card Error,1,13824
+License Updates/Requests,1,17398
+Active Transportation Inquiries (TT),0,3106
+Adjudication Schedule/Reschedule Request,0,966
+Advisory Notice Update,0,1184
+Ambulance Billing Inquiry (TT),0,4061
+Aquatics-Pool Reservation Payment,0,884
+Aquatics-Program Complaint,0,825
+Aquatics-Transfer to Indoor Pool (TT),0,22826
+Aquatics-Transfer to Outdoor Pool (TT),0,2363
+BEO and PHI Employment Inquiries (TT),0,1470
+Backflow and Cross Connection Inspections  (TT),0,914
+Bicycle Registration Inquiry (TT),0,19896
+Blvd Beautification or Non-Standard Treatment (TT),0,1316
+Board of Revision Services (TT,0,2431
+Book a Tournament (TT),0,2286
+Boulevard & Pavement Excavation Inquiries,0,1145
+Boulevard Tree Pruning - Right of Way Obstructed,0,769
+Boulevard Tree Pruning - Risk of Injury,0,3294
+Brush Pick Up from Boulevard Pruning/Storm Damage,0,1988
+Buffer Zone Application & Misc. Faxes (TT),0,4637
+Bureau of Records Information Req (TT),0,1138
+Business License Application Req (TT),0,3426
+CAO General Inq (TT),0,1030
+CF Accounts Payable Inq (TT),0,2666
+CF City Employees T4-Earnings (TT),0,1469
+CF Materials Managment Inq (TT),0,3733
+COVID 19 - Direct To Provice Tip Line/Form,0,1184
+COVID 19 - Fill Out Province Tip Line/Form,0,834
+COVID-19 Community Service Ambassador/Enforcement,0,1614
+CSS Careers/HR Inquiry (TT),0,12700
+CSS Employees Benefits Program Inq (TT),0,2090
+CSS Legal Services Inq (TT),0,1191
+Cancel Bulky Pick Up,0,747
+Cancel Cat License (TT),0,774
+Cancel Dog License (TT),0,9980
+Cannot Connect to 911(TT),0,1206
+Carts Damaged By Collection Crews GARBAGE 360L,0,786
+Catch Basin Cover Missing,0,1078
+Catch Basin Frozen - Back Lane,0,1588
+Challenge or Review Ticket Escalated Inquiry,0,784
+City Faciliy Mtce/Cleanliness/Closed (T&T),0,1004
+Claim Service Request,0,4676
+Clean Up from Homeless,0,840
+Click Before You Dig Referral (TT),0,785
+CmS Other-Leisure Guide Advertise/Distribute (TT),0,916
+CmS Other-Process a Registration,0,80953
+Collections-Refer to Contractor/Collections Agency,0,2610
+Community Gardens Inq (TT),0,766
+Cut/Excavation Concern for Public Works,0,1175
+Dangerous/Split Tree Hazardous,0,3163
+Dead Animal Pickup on City Property,0,4278
+Debris In Street Report P3,0,1065
+Ditch Culvert Maintenance (TT),0,2177
+Ditch Overflowing Priority 3 Reg,0,732
+Dog Pursue,0,847
+Dog Pursue-Human or Animal,0,1176
+Dog or Cat Biting Complaint,0,6053
+Dog or Cat Defecating - Public/Private Property,0,1040
+DogDefecating on Public/Private Property,0,1502
+Dutch Elm Disease Tree Inspection Request,0,1129
+Employee Verification (TT),0,2032
+Escalated Operator Standards - Garbage,0,800
+Escalated Parking Ticket Challenge Questions (TT,0,7297
+Escalated Street Sign Inquiries (TT),0,3338
+Fallen Boulevard Tree Report (Hazardous),0,778
+Fire & Paramedic Incident Inq (TT),0,5957
+Flex/Payment Down,0,9526
+Flood Volunteer Information Registration,0,3274
+Follow Up - Track Request Online Additional Info,0,31788
+Follow Up Call- Complaint,0,16775
+Follow Up Call- New Info Provided,0,51892
+Follow Up Call- No Water / Frozen Pipes,0,4795
+Follow Up Call- SLA not breached,0,234147
+Follow Up Call- Tracking Error,0,1031
+Follow up- Commendation,0,920
+Follow up- SLA breached,0,58389
+Forestry Concerns/Commendations,0,1410
+Forestry Escalated Information Request,0,987
+Forward Claim Form Email to Risk Management,0,932
+Found Cat,0,5451
+French Language Services  (T & T),0,892
+Garbage Calendar Inquiry,0,954
+Garden Plot Inquiries (TT),0,888
+Graffiti Parks Amenities,0,837
+Graffiti Removal Request - City Facilities,0,1330
+Gravel Lanes Maintenance Request,0,1677
+Gravel Road Maintenance Request,0,1236
+HRTA (Home Renovation Tax Assistance Program) (TT),0,833
+HT Trip Booking,0,2711
+Hazardous Waste Disposal - Landfill,0,816
+Highway Traffic Act Information (TT),0,954
+Homeless at Bus Stop Area Report,0,783
+Housing Complaint - Long Grass/Weeds_vof,0,740
+How are my Property Taxes Calculated,0,764
+IT Service Request (T & T),0,976
+Illegal Swimming Pool Discharge,0,849
+Inspections - After Hours Inspector Call Back,0,1171
+Inspections - MB Hydro Electrical Emails,0,784
+Inspections - Potential Illegal Rooming House,0,1015
+Inspections - Request for an Inspection (T & T),0,1139
+Install or Remove Lighting,0,989
+Items Lost in Garbage or Recycling Containers (TT),0,1447
+Leisure Guide Advertising & Distribution  (T & T),0,1719
+Leisure Guide Processed a Registration,0,34280
+Liens-Refer to Contractor/Collections Agency,0,1043
+Lifting of Restrictions (TT),0,5636
+Lifting of Restrictions Request,0,1141
+Litter in Park Report,0,1204
+Locate a Person in the Library (T&T),0,2435
+Mailing Address Change_vof,0,1295
+Marriage Application_vof,0,990
+Mayors Office Inquiries (TT),0,6102
+Membership Card/Account - English (TT),0,1700
+Misc Inspection Request,0,968
+Miscellaneous Concerns Operator Standards,0,760
+Missing Vehicle Courtesy Tow Report,0,778
+Mowing in Park Request,0,1058
+Naturalist Services Inq (TT),0,2258
+Needles on Public ROW After Hours (TT),0,2456
+Needles on Public Right of Way,0,844
+Neighbourhood Liveability By-Law Payment,0,3238
+Neighbourhood Liveability By-Law Screening Inquiry,0,2017
+New Cat License - 311 Process Payment,0,2112
+New Dog License (TT),0,5193
+New Dog License - 311 Process Payment,0,3943
+Non Emergency Transfers by Ambulance (TT),0,1629
+Other District/Unit/Div/Inq (TT),0,5147
+Other Dog License Req English (TT),0,8484
+Other Type of Claim,0,1471
+Overnight Parking Ban Info,0,6564
+PPD Film & Special Events Inq (TT),0,1085
+Park Amenity Maintenance Request,0,1249
+Park Maint - Weeds Spraying,0,1144
+Park Rental - Athletic Field Rental (TT),0,1171
+Park Rental - General Park Booking Inquiries (TT),0,1135
+Park Rental - Modify a Park Rental (TT),0,1773
+Park Rental - Off Season Rental (TT),0,1345
+Park Rental - Park Booking with Requirements (TT),0,2920
+Park Rental - Park/Field Not Found (TT),0,1256
+Park Rental - Process Casual Park Booking,0,888
+Park Rental - Transfer Park Booking to Parks (TT),0,14928
+Park Rental Payment Regular Hours (Take&Transfer),0,1203
+Park Security Concerns,0,1002
+Parked Vehicles Impeding Snow & Ice Control Op's,0,1203
+Parking Authority Collections (Take & Transfer),0,777
+Parking System (Flex)/Payment System Down,0,791
+Parking Ticket Payment,0,168652
+Parking Ticket Statement Escalated Inquiry,0,1342
+Parks Concerns/Commendations,0,771
+Parks Information Escalated Inquiry,0,740
+Pass a Message to Golfer on Course (TT),0,1764
+Paved Road Repair NonHazard Priority 3_vof,0,790
+Paved Road Repair Request P3,0,1144
+Peggo Blank Card Sold Report,0,1037
+Peggo Load Card with Fare Products,0,746
+Peggo Lost Card Report,0,1239
+Peggo Password Reset Request,0,923
+Peggo Pending Orders Report,0,1192
+Peggo View Products on Card,0,1231
+Pothole Repair Request in Spring P1,0,1001
+Pothole Repair Request in Spring P3,0,1373
+Pothole Repair Request in Summer P1,0,1255
+Pothole Repair Request in Summer P2,0,3076
+Pothole Repair Request in Summer P3,0,4001
+Pothole Repair Request in Winter P1,0,1172
+Pothole Repair Request in Winter P2,0,734
+Pothole_VOF,0,978
+Presentation Booking Req (TT),0,749
+Preview Program - Create/Change/Cancel Appointment,0,15586
+Preview Program - Requested Callback From Assessor,0,827
+Processed a Casual Ice Booking,0,1294
+Program Reg - Process a Casual Ice Booking,0,12843
+Program Reg - Process a Registration,0,222657
+Program Reg -RelayCustomerInstructionsToProgrammer,0,1561
+Program Reg-Account Balance Enquiry,0,748
+Program Reg-CGS Memberships Inquiry (T&T),0,1082
+Program Reg-Copies of Registration Receipts,0,1570
+Property Maintenance Request,0,1996
+Public Safety Concern (TT),0,3335
+Questions/Concerns for Property Owners in Tax Sale,0,955
+Railway Crossing Concern,0,941
+Railway Crossing Intersection Closure (TT),0,816
+Recreation-Process a Casual Ice Booking,0,4473
+Recreation-Transfer to Arena (TT),0,1653
+Recreation-Transfer to Recreation/Leisure Ctr (TT),0,2559
+Refer CVO Animal Care Line,0,3587
+Refer to Provincial Bedbug Hotline,0,2292
+Reference Question - English (TT),0,1182
+Referred From Provincial Bedbug Hotline,0,2377
+Registration - Indoor Pool – Public Swim,0,1640
+Registration - Outdoor/Wading Pool,0,3179
+Remove Object from Right of Way Hazardous,0,731
+Renew Cat License (TT),0,811
+Renew Cat License - 311 Process Payment,0,8328
+Renew Cat License Payment,0,1563
+Renew Dog License (TT),0,8668
+Renew Dog License - 311 Process Payment,0,31147
+Renew Dog License Payment,0,2825
+Replacement Dog Tags Request (TT),0,3028
+Report Oxygen/Person w/Disability at Residence (TT,0,731
+"Request a Garbage Cart, an Upgrade, an Extra Cart",0,1596
+"Request a Recycle Cart, an Upgrade, an Extra Cart",0,1079
+Request for Bulk Pick Up - Flood Related Items,0,1671
+Request for Cut/Blvd Restoration (TT),0,24064
+Request for Dead Animal Pickup_vof,0,1011
+Request for Lane Marking (TT),0,1455
+Request for Large Appliance Pick Up,0,1105
+Request for a Garbage/Recycling Calendar (TT),0,899
+Request to Rent a BFI Bin (T & T),0,893
+Request to Speak at Committee Meeting (TT),0,877
+Request to Speak at Council Meeting (TT),0,769
+Request to Work at Election,0,895
+Responsible Pet Ownership By-Law Payment,0,1289
+Review/Modify/Cancel Booking,0,891
+Roll Out Cart Damaged By City Equipment,0,976
+Sanding Request - Sidewalk After P1 - (TT),0,771
+Sanding Street/Roadway P3_vof,0,791
+Sewer Clean Up After Repairs,0,839
+Shelf Check - English (TT),0,3465
+Sick or Dead Tree Report,0,4169
+Sick or Injured Dog or Cat,0,734
+Snow Plow caused Damage Report,0,2191
+Snow Removal Request Street P3,0,1192
+Speak to By-Law Officer (TT),0,4920
+Speak to By-law Officer (TT),0,12273
+Staff Complaint/Commendation- ByLaw Enf (TT),0,2036
+Street Maintenance Miscellaneous Concern/Inquiry,0,2732
+Street Maintenance Towing Inquiries,0,2005
+TP Complaints & Commendations (TT),0,1285
+TP Trip Bookings/Information/Inquiries (TT),0,3694
+TP Trip Cancellation (TT),0,754
+TP Trip Confirmation (TT),0,1856
+TR Audio Video Surveillance Inquiry (TT),0,1007
+TR Bus Operator Position Inq (TT),0,3248
+TR Charter Services Request (TT),0,2138
+TR EcoPass Sales/Information (TT),0,2024
+TR Lost Property Request_VOF,0,819
+TR Lost Property Urgent (TT),0,7051
+TR Peggo Blank Card Sold Report,0,1959
+TR Peggo Client Account Misc Inq,0,973
+TR Peggo Complaint or Concern,0,1720
+TR Peggo Create New Account,0,6255
+TR Peggo Load Card with Fare Products,0,2652
+TR Peggo Lost Card Report,0,996
+TR Peggo Order Not Fulfilled,0,819
+TR Peggo Order Status Inq,0,2685
+TR Peggo Password Inq,0,4166
+TR Peggo Pending Orders Report,0,1175
+TR Peggo Register New Card,0,12879
+TR Peggo Report Card Lost/Found,0,5027
+TR Peggo Transit Usage Receipt Inq,0,920
+TR Peggo Update/Change Profile,0,1095
+TR Peggo View Products on Card,0,21868
+TR Transferring Issues,0,896
+Tax Calculation - Business,0,872
+Tax Credit Balance Inquiry,0,948
+Tax Notice - Business,0,824
+Taxi Cab License Request (TT),0,13624
+Tee Time Booking,0,25328
+Telephone Notification Request (TT,0,1349
+Temp Food Service Establishment Req (TT),0,986
+Ticket Screening Request,0,1247
+Time Limited Parking Request,0,973
+Towing - Log Inquiry,0,36916
+Towing Inquiries (TT),0,29162
+Towing Log Checked for Missing Vehicle,0,10339
+Towing Missing Car (TT),0,1513
+Traffic Calming Request,0,1073
+Traffic Control Barricades/Signs Abandoned,0,865
+Traffic Light Timing Concern,0,6890
+Traffic Signal Contact First Responder,0,839
+Traffic Signal Malfunction (TT),0,9222
+Traffic Signal Malfunction Referred to 911,0,2770
+Transfer call for Bicycle Registration,0,2487
+Transfer for a Zoning Query,0,779
+Transfer to Arena (T & T),0,6418
+Transfer to Indoor Pool ( T & T),0,67161
+Transfer to Outdoor Pool (T & T),0,3688
+Transfer to Provincial Health (TT),0,10730
+Transfer to Recreation or Leisure Centre (T & T),0,10409
+Transfer to Zoning for a Permit Query,0,2116
+Transfer to Zoo Office (TT),0,1647
+Transfer to a Recreation/Leisure Centre,0,1100
+Transfer to the Assiniboine Park Conservancy (TT),0,15629
+Transfered to 911 re Problems with 911's Phone,0,934
+Transferred - Bylaw Enf to Speak w/ Bylaw Officer,0,3743
+Transferred call to Provincial Health,0,1247
+Transferred for Street Maintenance Towing Inquiry,0,1620
+Transferred for a Park Rental Payment Reg. Hrs.,0,1315
+Transferred to Indoor Pool,0,9645
+Transferred to Outdoor Pool,0,1692
+Transferred to the Utility Billing Centre,0,26296
+Transit,0,2060
+Transit Non-Operator Concern,0,1154
+"Transit Schedules,Routes,SchoolService Report",0,3373
+Tree Dangerous or Split Hazardous_vof,0,761
+Tree Planting Request,0,2103
+Tree Pruning,0,6060
+Tree Root Claim Inquiry,0,2148
+Tree Stump Removal Request,0,1037
+Turn Off Water - Remove Meter ( T & T),0,2535
+Turn On Water - Install Meter (T & T),0,5187
+Turn On Water - New Service (T & T),0,5058
+Urgent Parking Meter Problem,0,5575
+Vehicle for Hire Report,0,923
+Vehicles for Hire Inquiry,0,2650
+Voters List Inquiry,0,8350
+Voters List Updates,0,784
+Vulnerable Seniors Transfer (TT),0,918
+WINNpass Program Application,0,1975
+Wasp Nest Removal,0,1328
+Water Billing Inquiry (T & T),0,165648
+Water Meter Different Sized Meter Request (TT),0,1596
+Water Meter Multiple Meter Request (T & T),0,2799
+Water Notices Received Inquiry/Concern,0,839
+Water Quality Lead Pipe Testing - Program Appoint.,0,2990
+Water Quality Lead Testing Required,0,816
+Water Renewal Inquiry/Concern - Non Emergency (TT),0,1566
+Weed Control Inq (TT),0,1516
+Where Do I Vote Inquiries,0,8984
+Zoning Building Code Inquiries (T & T),0,2561
+Zoning By-Law Complaint - Fence (T & T),0,1413
+Zoning By-Law Complaint - Home Based Business (TT),0,1553
+Zoning By-Law Complaint - Prop Encroachments (TT),0,817
+Zoning By-Law Complaint - Vehicle,0,1237
+Zoning By-Law Complaint - Vehicle (T & T),0,3116
+Zoning Construction Inquiry (T & T),0,2184
+Zoning Documentation For Permits (T & T),0,3536
+Zoning Mediation Services Inquiry (TT),0,3208
+Zoning Memorandum Request (T & T),0,1075
+Zoning Permit Query (T & T),0,34570
+Zoning Permit Status (T & T),0,2408
+Zoning Permit/Plan Search (T & T),0,5848
+Zoning Query (T & T),0,10948
